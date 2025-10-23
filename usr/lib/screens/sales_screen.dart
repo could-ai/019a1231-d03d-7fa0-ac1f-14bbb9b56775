@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../models/cellphone.dart';
-import '../models/sale.dart';
+import 'package:couldai_user_app/models/cellphone.dart';
+import 'package:couldai_user_app/models/sale.dart';
 
 class SalesScreen extends StatefulWidget {
   const SalesScreen({super.key});

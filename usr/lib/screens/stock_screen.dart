@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../models/cellphone.dart';
+import 'package:couldai_user_app/models/cellphone.dart';
 
 class StockScreen extends StatefulWidget {
   const StockScreen({super.key});
